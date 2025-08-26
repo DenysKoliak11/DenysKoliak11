@@ -9,9 +9,9 @@
 
 ### 🛠 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,graphql,redux,mui,figma,git" />
-  <img src="https://img.shields.io/badge/Zustand-181717?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,graphql,redux,mui,figma,git" height="48"÷/>
+  <img src="https://img.shields.io/badge/Zustand-181717?style=flat&logo=react&logoColor=white" height="48" alt="Zustand"/>
+  <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" height="48" alt="Styled Components"/>
 </p>
 
 ---
@@ -24,4 +24,6 @@
 ---
 
 ### 🔗 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/denys-koliak/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/denys-koliak/)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/denys_koliak)
+
