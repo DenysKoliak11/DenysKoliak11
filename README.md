@@ -18,8 +18,8 @@
 
 ### 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysKoliak11&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&theme=radical)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenysKoliak11&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&theme=radical)
 
 ---
 
