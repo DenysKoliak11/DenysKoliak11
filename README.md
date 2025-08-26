@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DenysKoliak11&show_icons=true&include_all_commits=true&count_private=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenysKoliak11&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&theme=radical)
+
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysKoliak11&theme=radical)
 
 ---
 
