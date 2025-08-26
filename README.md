@@ -18,9 +18,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&langs_count=10&theme=radical&count_private=true)
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysKoliak11&theme=radical)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysKoliak11&theme=github-compact)
 
 ---
 
