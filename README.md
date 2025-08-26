@@ -21,7 +21,7 @@
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=DenysKoliak11&theme=github-compact&count_private=true)
 ![trophy](https://github-profile-trophy.vercel.app/?username=DenysKoliak11&theme=radical&no-frame=true&row=1&column=6)
-![Snake animation](https://github.com/DenysKoliak11/DenysKoliak11/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DenysKoliak11/DenysKoliak11/output/github-contribution-grid-snake.svg)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DenysKoliak11&layout=compact&theme=radical)
 ![Metrics](https://metrics.lecoq.io/DenysKoliak11?template=classic&isocalendar=1&languages=1&activity=1&followup=1&stars=1&base=header,activity,community,repositories&base.indepth=false&base.hireable=false&isocalendar.duration=half-year&config.timezone=Europe%2FKyiv)
