@@ -10,6 +10,7 @@
 ### 🛠 Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,graphql,redux,mui,figma,git" style="height:40px; min-height:40px;"/>
+  <br/>
   <img src="https://img.shields.io/badge/Zustand-181717?style=flat&logo=react&logoColor=white" style="height:40px; min-height:40px;" alt="Zustand"/>
   <img src="https://img.shields.io/badge/Styled--Components-DB7093?style=flat&logo=styled-components&logoColor=white" style="height:40px; min-height:40px;" alt="Styled Components"/>
 </p>
